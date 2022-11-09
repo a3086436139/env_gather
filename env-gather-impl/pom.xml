@@ -16,16 +16,4 @@
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
 
-    <dependencies>
-        <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <scope>test</scope>
-        </dependency>
-
-        <dependency>
-            <groupId>com.briup.smart</groupId>
-            <artifactId>env-gather-interface</artifactId>
-        </dependency>
-    </dependencies>
 </project>
